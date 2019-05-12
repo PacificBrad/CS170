@@ -2,7 +2,7 @@
  * 
  */
 /**
- * @author Fred
+ * @author Bradly
  *
  */
 module FinalProject {
